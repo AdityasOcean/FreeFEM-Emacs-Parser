@@ -116,7 +116,7 @@ This is an Emacs parser for FreeFEM++ for use with recent Linux versions such as
 1. Download `freefem++-mode.el`
 ```sh
 mkdir -p ~/.emacs.d/lisp/
-wget https://example.com/freefem++-mode.el -O ~/.emacs.d/lisp/freefem++-mode.el
+wget https://github.com/AdityasOcean/FreeFEM-Emacs-Parser/blob/main/freefem%2B%2B-mode.el
 ```
 
 2. Configure Emacs
